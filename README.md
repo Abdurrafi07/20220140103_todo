@@ -1,5 +1,7 @@
 <h1>Terminal – command instalasi breeze</h1>
 
+![image](https://github.com/user-attachments/assets/b609bb32-7e2d-4ca1-b19d-e6550c348cdd)
+
 ![image](https://github.com/user-attachments/assets/2ad88d71-5a0e-43de-9c27-57b5c11448e0)
 
 <h1>VSCode – web.php</h1>
