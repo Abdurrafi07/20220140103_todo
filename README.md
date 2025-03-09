@@ -9,21 +9,21 @@
 <h1>Website</h1>
 <h1>Registrasi</h1>
 
-![image](https://github.com/user-attachments/assets/9568e71f-c488-4f71-bd03-6d4a02e62b21)
+![image](https://github.com/user-attachments/assets/495f973f-959d-4775-88ad-cc37acf2cdc4)
 
-![image](https://github.com/user-attachments/assets/abfd4d2c-16db-4fd1-900b-8bae85182d8a)
-
-<h1>Dashboard</h1>
-
-![image](https://github.com/user-attachments/assets/34adce87-1640-4a4b-aa4f-2016aa9ef0ba)
-
-![image](https://github.com/user-attachments/assets/908b78de-ce83-4dcd-84a8-23195799a661)
+![image](https://github.com/user-attachments/assets/b9238953-6359-4c02-89b4-90d6b49e0c53)
 
 <h1>Login</h1>
 
-![image](https://github.com/user-attachments/assets/8be55194-9b87-4528-9fa9-3c07f63ac270)
+![image](https://github.com/user-attachments/assets/244fcda5-7ceb-45e8-a760-868c54908cad)
 
-![image](https://github.com/user-attachments/assets/b564c52a-8f59-434c-9fd4-da27dc66543d)
+![image](https://github.com/user-attachments/assets/8acd49ec-24a5-4780-908b-f34bd43333d9)
+
+<h1>Dashboard</h1>
+
+![image](https://github.com/user-attachments/assets/503b4ca1-9c57-48c7-9055-ecddba062eed)
+
+![image](https://github.com/user-attachments/assets/7d6ee96a-3a78-4125-9161-f96490226422)
 
 <h1>Database</h1>
 
