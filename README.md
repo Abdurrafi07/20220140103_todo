@@ -11,25 +11,25 @@
 <h1>Website</h1>
 <h1>Registrasi</h1>
 
-![image](https://github.com/user-attachments/assets/7391adb2-1f9d-45c7-b466-6699fac8adfe)
+![image](https://github.com/user-attachments/assets/a97d2a92-f513-47d3-b1ec-fe3f15117f35)
 
 ![image](https://github.com/user-attachments/assets/b9238953-6359-4c02-89b4-90d6b49e0c53)
 
 <h1>Login</h1>
 
-![image](https://github.com/user-attachments/assets/1025cebb-d5ff-4d76-8d4e-cef1ff3e18cf)
+![image](https://github.com/user-attachments/assets/129643a3-4dc5-495a-a333-03106a5b02b1)
 
 ![image](https://github.com/user-attachments/assets/667181ed-7a81-485a-be41-cb6da6ce9250)
 
 <h1>Dashboard</h1>
 
-![image](https://github.com/user-attachments/assets/503b4ca1-9c57-48c7-9055-ecddba062eed)
+![image](https://github.com/user-attachments/assets/60e3eafb-9e0d-40de-b091-7c20ba3ae61e)
 
 ![image](https://github.com/user-attachments/assets/7d6ee96a-3a78-4125-9161-f96490226422)
 
 <h1>Database</h1>
 
-![image](https://github.com/user-attachments/assets/6316bd12-9d7f-4fd7-a1cc-91038d96344c)
+![image](https://github.com/user-attachments/assets/4fd1ed4e-cedb-4666-9676-912a607a08be)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
