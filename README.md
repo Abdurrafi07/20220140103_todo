@@ -9,15 +9,15 @@
 <h1>Website</h1>
 <h1>Registrasi</h1>
 
-![image](https://github.com/user-attachments/assets/495f973f-959d-4775-88ad-cc37acf2cdc4)
+![image](https://github.com/user-attachments/assets/7391adb2-1f9d-45c7-b466-6699fac8adfe)
 
 ![image](https://github.com/user-attachments/assets/b9238953-6359-4c02-89b4-90d6b49e0c53)
 
 <h1>Login</h1>
 
-![image](https://github.com/user-attachments/assets/244fcda5-7ceb-45e8-a760-868c54908cad)
+![image](https://github.com/user-attachments/assets/1025cebb-d5ff-4d76-8d4e-cef1ff3e18cf)
 
-![image](https://github.com/user-attachments/assets/8acd49ec-24a5-4780-908b-f34bd43333d9)
+![image](https://github.com/user-attachments/assets/667181ed-7a81-485a-be41-cb6da6ce9250)
 
 <h1>Dashboard</h1>
 
