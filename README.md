@@ -6,7 +6,7 @@
 
 <h1>VSCode – web.php</h1>
 
-![image](https://github.com/user-attachments/assets/78352afe-c3b0-48d6-8864-77949370df1c)
+![image](https://github.com/user-attachments/assets/198c59f4-b4ec-4aac-a92a-9bfae24d893c)
 
 <h1>Website</h1>
 <h1>Registrasi</h1>
