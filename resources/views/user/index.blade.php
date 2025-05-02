@@ -30,7 +30,6 @@
                 <div class="px-6 text-xl text-gray-900 dark:text-gray-100">
                     <div class="flex items-center justify-between">
                         <div></div>
-
                         @if (session('success'))
                             <p x-data="{ show: true }" x-show="show" x-transition
                                x-init="setTimeout(() => show = false, 5000)"
@@ -82,6 +81,33 @@
                                         </p>
                                     </td>
                                     <td class="px-6 py-4">
+                                        <div class="flex space-x-3">
+                                            @if ($data->is_admin)
+                                                <form action="{{route('user.removeadmin', $data)}}" method="POST">
+                                                    @csrf
+                                                    @method('PATCH')
+                                                    <button type='submit' class="text-blue-600 dark:text-blue-400 whitespace-nowrap hover:underline">
+                                                        Remove Admin
+                                                    </button>
+                                                </form>
+                                            @else
+                                                <form action="{{route('user.makeadmin', $data)}}" method="POST">
+                                                    @csrf
+                                                    @method('PATCH')
+                                                    <button type='submit' class="text-red-600 dark:text-red-400 whitespace-nowrap hover:underline">
+                                                        Make Admin
+                                                    </button>
+                                                </form>
+                                            @endif
+                                            <form action="{{route('user.destroy', $data)}}" method="Post"
+                                            onsubmit="return confirm('Are you sure you want to delete this User?');">
+                                                @csrf
+                                                @method('delete')
+                                                <button type="submit" class="text-red-600 dark:text-red-400 whitespace nowrap hover:underline">
+                                                    Delete
+                                                </button>
+                                            </form>
+                                        </div>
                                     </td>
                                 </tr>
                             @empty
