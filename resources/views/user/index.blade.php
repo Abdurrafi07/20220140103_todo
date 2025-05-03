@@ -99,11 +99,12 @@
                                                     </button>
                                                 </form>
                                             @endif
+                                            
                                             <form action="{{route('user.destroy', $data)}}" method="Post"
                                             onsubmit="return confirm('Are you sure you want to delete this User?');">
                                                 @csrf
                                                 @method('delete')
-                                                <button type="submit" class="text-red-600 dark:text-red-400 whitespace nowrap hover:underline">
+                                                <button type="submit" class="text-red-600 px-5 dark:text-red-400 whitespace nowrap hover:underline">
                                                     Delete
                                                 </button>
                                             </form>
