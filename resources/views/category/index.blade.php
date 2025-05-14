@@ -43,7 +43,6 @@
                                     </td>
                                     <td class="px-6 py-4">
                                         <div class="flex space-x-2">
-                                            <a href="{{ route('category.edit', $category) }}" class="text-blue-500 hover:underline">Edit</a>
                                             <form action="{{ route('category.destroy', $category) }}" method="POST" onsubmit="return confirm('Are you sure you want to delete this category?');">
                                                 @csrf
                                                 @method('DELETE')

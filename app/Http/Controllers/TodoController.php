@@ -28,13 +28,13 @@ class TodoController extends Controller
 
     public function create()
     {
-        $categories = Category::orderBy('title')->get();   
+        $categories = Category::where('user_id', Auth::id())->orderBy('title')->get();   
         return view('todo.create', compact('categories'));
     }
 
     public function edit(Todo $todo) {
         if (auth()->user()->id == $todo->user_id){
-            $categories = Category::orderBy('title')->get();
+            $categories = Category::where('user_id', Auth::id())->orderBy('title')->get();
             return view('todo.edit', compact('todo', 'categories'));
         }else{
             return redirect()->route('todo.index')->

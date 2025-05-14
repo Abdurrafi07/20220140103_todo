@@ -24,7 +24,7 @@
                             <x-select name="category_id" id="category_id" class="w-full">
                                 <option value="">Empty</option>
                                 @foreach ($categories as $category)
-                                    <option value="{{ $category->id }}" {{ old('category_id') == $category->id ? 'selected' : '' }}>
+                                    <option value="{{ $category->id }}" {{ old('category_id', $todo->category_id) == $category->id ? 'selected' : '' }}>
                                         {{ $category->title }}
                                     </option>
                                 @endforeach
