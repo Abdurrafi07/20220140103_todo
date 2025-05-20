@@ -22,22 +22,22 @@ class DatabaseSeeder extends Seeder
         // DB::table('todos')->truncate();
         // DB::statement('SET FOREIGN_KEY_CHECKS=1;');
 
-        // // Buat satu user dengan namamu
-        // User::factory()->create([
-        //     'name' => 'Abdurrafi Nur Fakhruddin', // Ganti dengan namamu
-        //     'email' => 'abdurrafinurfakh07@gmail.com', // Bisa ganti sesuai kebutuhan
-        //     'email_verified_at' => now(),
-        //     'password' => Hash::make('password'),
-        //     'remember_token' => Str::random(10),
-        //     'is_admin' => true,
-        // ]);
-
         // Buat user admin
         User::factory()->create([
             'name' => 'Admin',
             'email' => 'admin@admin.com',
             'email_verified_at' => now(),
-            'password' => Hash::make('password'),
+            'password' => Hash::make('admin123'),
+            'remember_token' => Str::random(10),
+            'is_admin' => true,
+        ]);
+
+        // Buat satu user dengan namamu
+        User::factory()->create([
+            'name' => 'Abdurrafi Nur Fakhruddin', // Ganti dengan namamu
+            'email' => 'abdurrafinurfakh07@gmail.com', // Bisa ganti sesuai kebutuhan
+            'email_verified_at' => now(),
+            'password' => Hash::make('Yi1234567Zhen'),
             'remember_token' => Str::random(10),
             'is_admin' => true,
         ]);

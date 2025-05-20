@@ -24,6 +24,8 @@ class User extends Authenticatable
         'password',
     ];
 
+    // protected $with = ['todos'];
+
     /**
      * The attributes that should be hidden for serialization.
      *
@@ -34,8 +36,6 @@ class User extends Authenticatable
         'remember_token',
     ];
 
-    
-    
     /**
      * Get the attributes that should be cast.
      *
