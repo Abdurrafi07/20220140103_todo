@@ -6,7 +6,7 @@
 
 ## 2. Browser Category
 
-![alt text](screenshot/Tugas9/Todo.png)
+![alt text](screenshot/Tugas9/Category.png)
 
 ## 3. Browser User
 
